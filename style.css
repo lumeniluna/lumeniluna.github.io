@@ -1,0 +1,56 @@
+.container {
+	width:800px;
+	background:#FFF;
+	margin:0 auto;
+	padding:1em;
+}
+
+body {
+   padding:0;
+   margin:0;
+   font-family: 'Playfair Display', serif;
+   background-image:url(img/vintage_wallpaper.PNG);
+}
+
+.photo {
+	width:800px;
+}
+
+h1, h2, h3 {
+	font-family:'Zen Antique', serif;
+	
+}
+h1 {
+	font-size: 2em;
+}
+h3 {
+	font-size: 1,5em;
+}
+
+nav {
+	text-align: center;
+	padding:1.2em;
+}
+	
+nav a:link {
+	font-family: 'Alumni Sans', sans-serif;
+	font-size:1em;
+	text-transform:uppercase;
+	text-decoration:none;
+	font-weight:bold;
+	letter-spacing:0.05em;
+	background:#D99D55;
+	color:white;
+	padding:0.8em;
+	margin:0 0.4em;
+	border-radius:0.5em;
+	
+}
+
+nav a:hover {
+	background:#A65E1F;
+}
+
+nav a:visited {
+	color:black;
+}
